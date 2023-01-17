@@ -291,6 +291,9 @@ These can be useful for osint and social engineering.
 
 ### Not working / Paused
 
+### Developers
+- [phind](https://phind.com/) - The AI search engine for instant answers.
+
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 
 ---------
