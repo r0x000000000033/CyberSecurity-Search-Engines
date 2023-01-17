@@ -10,6 +10,7 @@
 - [Ask](https://www.ask.com/)
 - [Baidu](https://www.baidu.com/)
 - [You](https://you.com/)
+- [Metager](metager3.de/) 
 
 ### Servers
 
