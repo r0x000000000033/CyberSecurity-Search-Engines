@@ -78,6 +78,7 @@
 - [SourceGraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 - [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
 - [WP Directory](https://wpdirectory.net/) - Lightning fast regex searching of code in the WordPress Plugin and Theme Directories
+- [GitHelp](https://githubhelp.com/)
 
 ### Mail Addresses
 
@@ -223,6 +224,7 @@ These can be useful for osint and social engineering.
 - [VK](https://vk.com/)
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
+- [Telegram](https://telegram.org/)
 
 ### Phone Numbers
 
@@ -289,10 +291,12 @@ These can be useful for osint and social engineering.
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
 
-### Not working / Paused
-
 ### Developers
+
 - [phind](https://phind.com/) - The AI search engine for instant answers.
+
+
+### Not working / Paused
 
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 
